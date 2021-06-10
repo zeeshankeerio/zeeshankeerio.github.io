@@ -277,7 +277,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p {
-  color: #be0000;
+  color: #535353 ;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
@@ -296,14 +296,14 @@ h1, h2, h3, h4, h5, h6 {
 #hero .social-links a {
   font-size: 24px;
   display: inline-block;
-  color: #be0000;
+  color: #000000;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
 }
 
 #hero .social-links a:hover {
-  color:  #000000 ;
+  color: #be0000 ;
 }
 
 @media (max-width: 992px) {
