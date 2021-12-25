@@ -8,16 +8,7 @@
   </a>
   </h3> 
       
-               
-     
-<div align="center">
-
-[![](https://raw.githubusercontent.com/zeeshankeerio/zeeshankeerio/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/zeeshankeerio/zeeshankeerio/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zeeshankeerio/zeeshankeerio/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/zeeshankeerio/zeeshankeerio/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zeeshankeerio/zeeshankeerio/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-</div>
+            
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -44,7 +35,7 @@
 </p>
 <br>
 
-[![Zeeshan Keerio's' Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeeshankeerio&custom_title=Zeeshan Keerio%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://zeeshankeerio.dev)
+[![Zeeshan Keerio's' Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeeshankeerio&custom_title=zeeshankeerio%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://zeeshankeerio.dev)
 
 <div/>
 
