@@ -1,10 +1,10 @@
 <h2 align="center"> Hi 👋 , I'm Zeeshan Keerio <br/></h2> 
-<h3 align="center">Also known as "Zee" to other people. <br> <br>
+<h3 align="center">Data Scientist | Business Analyst | Career Counseling | Educator | Freelancer <br> <br>
   <a href="https://github.com/zeeshankeerio" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/FahimFBA?label=Github%20followers&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zeeshankeerio?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
-  <a href="https://github.com/FahimFBA" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=FahimFBA&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  <a href="https://github.com/zeeshankeerio" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=zeeshankeerio&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3> 
       
@@ -12,9 +12,9 @@
      
 <div align="center">
 
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zeeshankeerio/zeeshankeerio/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zeeshankeerio/zeeshankeerio/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zeeshankeerio/zeeshankeerio/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zeeshankeerio/zeeshankeerio/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zeeshankeerio/zeeshankeerio/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 </div>
@@ -107,13 +107,13 @@ My Current Workstation Specification </h2>
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fahimfba/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Fahim_FBA/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu.fba)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zeeshan-keerio/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/imzeeshan-ai/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/ZeeshanKeerio)
 <br> <br>
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA" alt="FahimFBA" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshankeerio" alt="zeeshankeerio" /></p>
 
 
 
@@ -134,21 +134,21 @@ My Current Workstation Specification </h2>
 <div align="center">
 
 
-:star: [Codeforces](https://codeforces.com/profile/FahimFBA) <br>
+:star: [Codeforces](https://codeforces.com/profile/zeeshankeerio) <br>
 :star: [Toph](https://toph.co/u/FahimFBA) <br>
-:star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
-:star: [HackerEarth](https://www.hackerearth.com/@md.fahim3) <br>
+:star: [HackerRank](https://www.hackerrank.com/zeeshankeerio) <br>
+:star: [HackerEarth](https://www.hackerearth.com/@md.zeeshankeerio) <br>
 :star: [URI](https://www.urionlinejudge.com.br/judge/en/profile/436965) <br>
 :star: [Dimik OJ](https://dimikoj.com/) <br>
-:star: [Codechef](https://www.codechef.com/users/fahimfba)  <br>
+:star: [Codechef](https://www.codechef.com/users/zeeshankeerio)  <br>
 :star: [CodingBat](https://codingbat.com/) <br>
-:star: [Leetcode](https://leetcode.com/FBA/) <br>
-:star: [SPOJ](https://www.spoj.com/users/fahimfba/) <br>
+:star: [Leetcode](https://leetcode.com/zeeshankeerio/) <br>
+:star: [SPOJ](https://www.spoj.com/users/zeeshankeerio/) <br>
 :star: [LightOJ](http://lightoj.com/) <br>
 :star: [Timus](https://acm.timus.ru/author.aspx?id=302862)<br>
 :star: [AMT](http://orac.amt.edu.au/)<br>
 :star: [UVa](http://onlinejudge.org/)<br>
-:star: [CodeMarshal](https://algo.codemarshal.org/users/FahimFBA) <br>
+:star: [CodeMarshal](https://algo.codemarshal.org/users/zeeshankeerio) <br>
 <i>Many more are coming soon...</i> :clap: </div> </details>
 	
 	
@@ -159,7 +159,7 @@ My Current Workstation Specification </h2>
 <div align="center">
 	
 
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
+![Zeeshan Keerio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeeshankeerio&layout=compact&theme=synthwave&v=2)
 
 
 </div>
@@ -167,8 +167,8 @@ My Current Workstation Specification </h2>
 
 <p align="center">
 
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
+<a href="https://github.com/zeeshankeerio/github-readme-twitter">
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=imzeeshan-ai&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
 </p>
@@ -176,5 +176,5 @@ My Current Workstation Specification </h2>
 
 
 ------
-Credit: [FahimFBA](https://github.com/FahimFBA)
-Last Edited on: 01/09/2021
+Credit: [Zeeshan Keerio](https://github.com/zeeshankeerio)
+Last Edited on: 26/12/2021
