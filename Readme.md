@@ -107,7 +107,7 @@ My Current Workstation Specification </h2>
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zeeshan-keerio/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/imzeeshan-ai/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/ZeeshanKeerio)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zeeshan-keerio/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/imzeeshan_ai/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/ZeeshanKeerio)
 <br> <br>
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
@@ -168,7 +168,7 @@ My Current Workstation Specification </h2>
 <p align="center">
 
 <a href="https://github.com/zeeshankeerio/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=imzeeshan-ai&layout=wide&show_reply=off&show_retweet=off" />
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=imzeeshan_ai&layout=wide&show_reply=off&show_retweet=off" />
 </a>
 
 </p>
