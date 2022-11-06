@@ -361,6 +361,21 @@
 <coingecko-coin-ticker-widget  coin-id="matic-network" currency="usd" locale="en"></coingecko-coin-ticker-widget>
   <div><script src="https://widgets.coingecko.com/coingecko-coin-compare-chart-widget.js"></script>
 <coingecko-coin-compare-chart-widget  coin-ids="bitcoin,ethereum" currency="usd" locale="en"></coingecko-coin-compare-chart-widget></div>
+<div>fetch("https://api.coingecko.com/api/v3/coins/ethereum/market_chart?vs_currency=USD&days=10&interval=hourly")
+  .then(function(resp) {
+    return resp.json();
+  })
+  .then(function(data) {
+    var txt="(setup table HTML)"
+    
+    //Iterate to extract the data and place it into the table HTML
+    for (var i=0;i<data.prices.length;i++){
+      txt = txt + "<tr><td>" + data.prices[i][0] + "</td><td>" + serialDateToNiceDate(data.prices[i][0]) + "</td><td>" + data.market_caps[i][1] + "</td><td>" + data.prices[i][1] + "</td><td>" + data.total_volumes[i][1] + "</tr>\n"
+    }
+    txt = txt + "\n</table>" //Close table
+    document.write(txt)
+  })
+                                            }</div>
 <!-- Container for the image gallery -->
 <div class="container">
   <div class="section-title">
